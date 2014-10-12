@@ -1,6 +1,6 @@
 {
   "name": "turn-angular-DnD",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "description": "Drag and drop directive in angular",
   "main": "draganddrop.js",
   "author": "ganarajpr",

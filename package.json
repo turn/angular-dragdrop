@@ -5,7 +5,6 @@
   "main": "draganddrop.js",
   "author": "ganarajpr",
   "license": "private",
-  "private": true,
   "repository": "https://github.com/turn/angular-dragdrop.git",
   "dependencies": {
    "angular": ">= 1.0.8"
